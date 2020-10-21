@@ -6,9 +6,8 @@
 
 #### 摘要：陳君瑋沒有來上課，不要跟老師講喔 (噓!!!🤫
 
-
- <img src="./Gantt.png" width = "800" height = "600" alt="图片名称" />
-  <img src="./PERT.png" width = "800" height = "600" alt="图片名称"/>
+### Gantt
+### https://hackmd.io/LofqRG0JRS-xkQbIRx6XCw?both
 
 ### PERT
 ### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g
