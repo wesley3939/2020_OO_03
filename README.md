@@ -8,7 +8,7 @@
 
 ![image](S__60579845.jpg)
 
-<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=60% />
+<img src=./Gantt.png width=60% />
 
  <img src="./Gantt.png" width = "800" height = "600" alt="图片名称" />
   <img src="./PERT.png" width = "800" height = "600" alt="图片名称"/>
