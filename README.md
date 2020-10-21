@@ -13,6 +13,8 @@
 ### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g?view
 
 
+  <img src="PERT.png" />
+
 
 
 ![image](S__60579845.jpg)
