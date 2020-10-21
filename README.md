@@ -9,11 +9,15 @@
 ### Gantt
 ### https://hackmd.io/LofqRG0JRS-xkQbIRx6XCw?view
 
-### PERT
+
+  <img src="Gannt.png" />
+  
+  
+  ### PERT
 ### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g?view
-
-
   <img src="PERT.png" />
+
+### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
 
 
 
