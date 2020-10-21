@@ -9,6 +9,6 @@
 ![image](S__60579845.jpg)
 
 
-![image](gantt.png)
+![image](Gantt.png)
 
-![image](pert.png)
+![image](PERT.png)
