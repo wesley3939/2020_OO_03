@@ -10,7 +10,7 @@
 
 
 
- <img src="./Gantt.png" width = "800" height = "600" alt="图片名称" align=center />
-  <img src="./PERT.png" width = "800" height = "600" alt="图片名称" align=center />
+ <img src="./Gantt.png" width = "800" height = "600" alt="图片名称" />
+  <img src="./PERT.png" width = "800" height = "600" alt="图片名称"/>
 
 ### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
