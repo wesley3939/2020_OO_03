@@ -7,10 +7,10 @@
 #### 摘要：陳君瑋沒有來上課，不要跟老師講喔 (噓!!!🤫
 
 ### Gantt
-### https://hackmd.io/LofqRG0JRS-xkQbIRx6XCw?both
+### https://hackmd.io/LofqRG0JRS-xkQbIRx6XCw?view
 
 ### PERT
-### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g
+### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g?view
 
 ### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
 
