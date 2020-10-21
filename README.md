@@ -12,7 +12,6 @@
 ### PERT
 ### https://hackmd.io/jArhTxUmTl-yitcZX3Nr5g?view
 
-### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
 
 
 
