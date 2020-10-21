@@ -12,3 +12,5 @@
 ![image](Gantt.png)
 
 ![image](PERT.png)
+
+### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
