@@ -9,9 +9,8 @@
 ![image](S__60579845.jpg)
 
 
-![image](Gantt.png=512x512)
 
-![image](PERT.png=512x512)
- <img src="./Gantt.png" width = "300" height = "200" alt="图片名称" align=center />
+ <img src="./Gantt.png" width = "800" height = "600" alt="图片名称" align=center />
+  <img src="./PERT.png" width = "800" height = "600" alt="图片名称" align=center />
 
 ### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
