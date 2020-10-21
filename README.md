@@ -9,8 +9,8 @@
 ![image](S__60579845.jpg)
 
 
-![image](Gantt.png)
+![image](Gantt.png width=256 height=256)
 
-![image](PERT.png)
+![image](PERT.png width=256 height=256)
 
 ### 關鍵路徑： 1 → 2 → 4 → 5 → 6 → 7
