@@ -35,3 +35,14 @@
 
 ### FDD圖
 ### https://lucid.app/invitations/accept/e25c26f6-960f-4647-8acb-a0a653f90131
+
+### 大頭家電商平台需求分析描述:
+#### 1.	新使用者必須點擊註冊帳號及密碼，已註冊者可直接登入。
+#### 2.	點擊登入，輸入帳號密碼。
+#### 3.	進入產品頁面即可點選商品購買。
+#### 4.	確認送出訂單後也可以刪除已訂購的商品。
+
+### 使用案例圖
+### https://lucid.app/invitations/accept/15ad7270-8fa8-44f9-a046-579f14ddd1b8
+### 使用案例說明
+### https://lucid.app/invitations/accept/70acb95e-7992-4ca5-8643-e769998e3c94
