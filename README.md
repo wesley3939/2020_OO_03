@@ -30,6 +30,7 @@
 ---
 ## FDD圖
 ### https://lucid.app/invitations/accept/e25c26f6-960f-4647-8acb-a0a653f90131
+![image](FDD.png)
 ---
 ## 大頭家電商平台需求分析描述:
 #### 1.	新使用者必須點擊註冊帳號及密碼，已註冊者可直接登入。
